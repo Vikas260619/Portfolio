@@ -1,0 +1,11 @@
+body {
+  padding: 15px 50px;
+  background: #191923;
+  position: relative;
+  overflow: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
